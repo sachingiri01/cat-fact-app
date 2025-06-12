@@ -3,6 +3,7 @@
 A simple React app built with Vite and Tailwind CSS. It fetches and displays a random cat fact from a public API when a button is clicked.
 
 ## 📸 Preview
+![image](https://github.com/user-attachments/assets/b0b25309-3c3c-4f8a-8fe9-1529d4b01340)
 
 ---
 
